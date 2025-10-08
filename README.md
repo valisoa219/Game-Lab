@@ -22,6 +22,8 @@
 <h2>🛠 How to Contribute</h2>
 
 <ol>
+  <li><b>Star</b> this repository to your GitHub account.</li>
+  <li><b>Follow</b> this account for connecting and more open source contribution in future.</li>
   <li><b>Fork</b> this repository to your GitHub account.</li>
 
   <li><b>Clone</b> your fork to your local machine:<br>
