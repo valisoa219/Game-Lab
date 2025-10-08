@@ -16,3 +16,5 @@ The goal is to turn all the lights off on the 5x5 grid.
 - **Win Celebration:** Enjoy a confetti explosion when you solve the puzzle!
 
 ## Screenshot
+<img width="858" height="739" alt="image" src="https://github.com/user-attachments/assets/e0194249-977e-4a3a-9a50-313c4999b1bf" />
+
